@@ -9,6 +9,6 @@ echo $has = secure::encrypt('IAMROHIT.IN');
 ?>
 
 <?php
-echo secure::descypt($has);
+echo secure::decrypt($has);
 ?>
 ```
